@@ -1,3 +1,3 @@
-def a3():
-    return 'aaa'
-print(a3())
+def a(num):
+    return 'a'*num
+print(a(3))
